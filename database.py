@@ -1,9 +1,9 @@
 import psycopg2
 
 DB_CONFIG = {
-    "dbname": "carsell_db",
-    "user": "qulumbur",
-    "password": "simplepass",
+    "dbname": "dbname",
+    "user": "user",
+    "password": "password",
     "host": "localhost",
     "port": "5432"
 }
